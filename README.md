@@ -11,8 +11,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Desenvolvimento inicial
-- [x] Melhorias no Codigo
 - [x] Funções de API
+- [x] Cache das consultas via API
 - [x] Melhoria na pesquisa (Velocidade de resposta)
 - [ ] Melhoria geral
 
@@ -36,7 +36,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Apache 2 ou Nginx
 * PHP 5.4 ou superior
-* API do IXC Provedo (Informações de clientes, etc). [Wiki API do IXCProvedor](https://wikiapiprovedor.ixcsoft.com.br/).
+* API do IXC Provedo. [Wiki API do IXCProvedor](https://wikiapiprovedor.ixcsoft.com.br/).
 
 ## 📝 Licença
 Projeto realizado para estudo e pesquisa.
@@ -45,5 +45,6 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 ## 💻 Feito com
 * PHP
+* https://core.telegram.org/bots
 
 [⬆ Voltar ao topo](#mapa_provedo)<br>
