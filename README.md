@@ -4,7 +4,7 @@
 
 <img src="Telegram_JYr39n9y0f.png" alt="start">
 
-> Bot para Telegram em PHP para [IXC Provedor](https://www.ixcsoft.com.br/ixcprovedor/), movido pela API IXC Provedor.
+> Bot para Telegram em PHP para [IXC Provedor](https://www.ixcsoft.com.br/ixcprovedor/), movido pela [Wiki API do IXCProvedor](https://wikiapiprovedor.ixcsoft.com.br/).
 
 ### ➡️ LInk Telegram [Aceguanet_bot](https://t.me/Aceguanet_bot)
 
