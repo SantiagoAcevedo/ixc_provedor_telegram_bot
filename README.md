@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 > Lista de Chamados
 <img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
 > Pesquisa de Clientes
-<img src="Telegram_go6pqoq9Vo.png" alt="Mapa Provedor2">
+<img src="Telegram_NQDFfFX8Nu.png" alt="Mapa Provedor2">
 > Informações do Cliente
 <img src="Telegram_hk3r9EQzXo.png" alt="Mapa Provedor2">
 > Dados do PPPoE
