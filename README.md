@@ -6,7 +6,7 @@
 
 > Bot para Telegram em PHP para [IXC Provedor](https://www.ixcsoft.com.br/ixcprovedor/), movido pela API IXC Provedor.
 
-### ➡️ Telegram [Aceguanet_bot](https://t.me/Aceguanet_bot)
+### ➡️ LInk Telegram [Aceguanet_bot](https://t.me/Aceguanet_bot)
 
 ### Ajustes e melhorias
 
