@@ -3,8 +3,6 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 <img src="Telegram_JYr39n9y0f.png" alt="start">
-<img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
-<img src="Telegram_mC48DQNNwq.png" alt="Mapa Provedor">
 
 > Bot para Telegram em PHP para [IXCProvedor](https://www.ixcsoft.com.br/ixcprovedor/), movido pela API IXC Provedor.
 
@@ -17,6 +15,18 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Funções de API
 - [x] Melhoria na pesquisa (Velocidade de resposta)
 - [ ] Melhoria geral
+
+## Algumas Funções
+
+> Lista de Chamados
+<img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
+> Informações do Cliente
+<img src="Telegram_hk3r9EQzXo.png" alt="Mapa Provedor2">
+> Dados do PPPoE
+<img src="Telegram_1v9ISOIev4.png" alt="Mapa Provedor2">
+> Dados de Pagamento
+<img src="Telegram_mC48DQNNwq.png" alt="Mapa Provedor2">
+
 
 ## 💻 Pré-requisitos
 
