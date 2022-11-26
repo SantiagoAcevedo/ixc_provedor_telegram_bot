@@ -22,16 +22,22 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 > ✅ Lista de Chamados
 <img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
+
 > ✅ Pesquisa de Clientes
 <img src="Telegram_NQDFfFX8Nu.png" alt="Mapa Provedor2">
+
 > ✅ Informações do Cliente
 <img src="Telegram_hk3r9EQzXo.png" alt="Mapa Provedor2">
+
 > ✅ Dados do PPPoE
 <img src="Telegram_1v9ISOIev4.png" alt="Mapa Provedor2">
+
 > ✅ Dados de Pagamento
 <img src="Telegram_mC48DQNNwq.png" alt="Mapa Provedor2">
+
 > ✅ Cadastro de Localização do Cliente
 <img src="Telegram_kwyqSkSeeN.png" alt="Mapa Provedor2">
+
 
 ## 💻 Pré-requisitos
 
