@@ -30,7 +30,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 <img src="Telegram_1v9ISOIev4.png" alt="Mapa Provedor2">
 > Dados de Pagamento
 <img src="Telegram_mC48DQNNwq.png" alt="Mapa Provedor2">
-
+> Cadastro de Localização do Cliente
+<img src="Telegram_kwyqSkSeeN.png" alt="Mapa Provedor2">
 
 ## 💻 Pré-requisitos
 
