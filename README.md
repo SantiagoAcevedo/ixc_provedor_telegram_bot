@@ -18,19 +18,19 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Melhoria na pesquisa (Velocidade de resposta)
 - [ ] Melhoria geral
 
-## Algumas Funções
+## 📲 Algumas Funções
 
-> Lista de Chamados
+> ✅ Lista de Chamados
 <img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
-> Pesquisa de Clientes
+> ✅ Pesquisa de Clientes
 <img src="Telegram_NQDFfFX8Nu.png" alt="Mapa Provedor2">
-> Informações do Cliente
+> ✅ Informações do Cliente
 <img src="Telegram_hk3r9EQzXo.png" alt="Mapa Provedor2">
-> Dados do PPPoE
+> ✅ Dados do PPPoE
 <img src="Telegram_1v9ISOIev4.png" alt="Mapa Provedor2">
-> Dados de Pagamento
+> ✅ Dados de Pagamento
 <img src="Telegram_mC48DQNNwq.png" alt="Mapa Provedor2">
-> Cadastro de Localização do Cliente
+> ✅ Cadastro de Localização do Cliente
 <img src="Telegram_kwyqSkSeeN.png" alt="Mapa Provedor2">
 
 ## 💻 Pré-requisitos
