@@ -16,6 +16,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Funções de API
 - [x] Cache das consultas via API
 - [x] Melhoria na pesquisa (Velocidade de resposta)
+- [x] Informações do Equipamento (Por agora somente UBNT)
 - [ ] Melhoria geral
 
 ## 📲 Algumas Funções
@@ -38,6 +39,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 > ✅ Cadastro de Localização do Cliente
 <img src="Telegram_kwyqSkSeeN.png" alt="Mapa Provedor2">
 
+> ✅ Informações do Equipamento do Cliente (AirOS 6)
+<img src="Telegram_LbljMlAUF7.png" alt="Mapa Provedor2">
 
 ## 💻 Pré-requisitos
 
