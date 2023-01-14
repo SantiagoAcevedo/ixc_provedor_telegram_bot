@@ -60,4 +60,4 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 * PHP
 * https://core.telegram.org/bots
 
-[⬆ Voltar ao topo](#mapa_provedo)<br>
+[⬆ Voltar ao topo](#bot-telegram-para-ixc-provedor---suporte)<br>
