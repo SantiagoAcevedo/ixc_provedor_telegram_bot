@@ -17,7 +17,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Funções de API
 - [x] Cache das consultas via API
 - [x] Melhoria na pesquisa (Velocidade de resposta)
-- [x] Informações do Equipamento (Sinal, Lan, CCQ) (Ubiquiti)
+- [x] Informações do Equipamento (Sinal, Lan, CCQ, Firmware entre outras informações) (Ubiquiti)
 - [ ] Melhoria geral
 
 ## 📲 Algumas Funções
