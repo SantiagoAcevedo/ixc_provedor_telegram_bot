@@ -23,7 +23,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 📲 Algumas Funções
 
 > ✅ Video
+
+
 https://user-images.githubusercontent.com/16477389/221564982-fd6e7567-9b2f-449a-9b87-e05726609c19.mp4
+
 
 > ✅ Lista de Chamados
 <img src="Telegram_OmbPdbxEH9.png" alt="Mapa Provedor2">
