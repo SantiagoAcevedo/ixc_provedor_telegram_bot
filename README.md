@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="Telegram_JYr39n9y0f.png" alt="start">
+<img src="msedge_HbXScQaaaZ.png" alt="start">
 
 > Ferramenta de suporte automatizada projetada para auxiliar os colaboradores da empresa no atendimento de campo. Ele permitiria que os colaboradores realizem consultas e obtenham informações relevantes para o atendimento, enquanto utiliza o Telegram com a API do IXC Provedor para acessar informações de conta e solucionar problemas de forma automatizada. Além disso, inclui funcionalidades como a capacidade de gerenciar tickets de suporte, fornecer informações de status de conta do cliente e acesso à documentação de suporte. O bot PHP utiliza a biblioteca API do IXC Provedor para se conectar às suas funcionalidades e facilitar a comunicação entre o colaborador e o sistema. Isso ajudaria a agilizar o atendimento de campo, tornando o processo mais rápido e eficiente para os colaboradores e melhorando a satisfação do cliente. 
 > [IXC Provedor](https://www.ixcsoft.com.br/ixcprovedor/), movido pela [Wiki API do IXCProvedor](https://wikiapiprovedor.ixcsoft.com.br/).
